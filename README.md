@@ -35,7 +35,7 @@ ABOUT THE DATASET
 
 DATASET LINK
 --------------
-https://www.cs.toronto.edu/~kriz/cifar-10-sample/cat4.png
+https://www.cs.toronto.edu/~kriz/cifar.html
 
 
 
